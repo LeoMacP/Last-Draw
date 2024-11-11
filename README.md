@@ -28,7 +28,7 @@ Scope:
       Player:
         Stores player score, reputation, and health.
      
-      Decision Node:
+    - Decision Node:
          Represents each choice, outcome, and possible rewards/penalties.
      
 # Data Design
