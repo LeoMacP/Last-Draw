@@ -3,7 +3,7 @@
 
 
 
-# 1 Project Description:
+# 1 Project Description
 Last Draw is a Western-themed point-and-click adventure game in which players must make quick, strategic decisions within time limits. Each choice influences the game's narrative path and outcomes.
 
 
@@ -11,7 +11,7 @@ Last Draw is a Western-themed point-and-click adventure game in which players mu
 Purpose: 
   This project aims to provide players an engaging, time-sensitive adventure where choices impact the story and the final challenge.
 
-# 2 Scope:
+# 2 Scope
   - Included Features:
       Interactive decision-making, shoot-target mini-game, time-sensitive mechanics, and a scoring system based on attribute management.
     
