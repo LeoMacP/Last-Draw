@@ -35,7 +35,7 @@ Purpose:
    
 
 # 3 Data Dictionary
-   - 3.1 Data Elements:
+   - Data Elements:
      - Player:
         Stores player score and attributes (Health, Audacity and Stealth).
      
@@ -52,8 +52,9 @@ Purpose:
 
 # 5 User Interface Design
   - UI Overview:
-      Game screen with timer, decision options, and disc-hunting area.
-      Attributes and Score display panel.
+      - Game screen with timer and decision options.
+      - Attributes and Score display panel.
+      - Overall game control (New Game and Settings) displayed at all times
     ![image](https://github.com/user-attachments/assets/9a9a62d1-b1d4-4aa6-9db3-5a5ef649fa47)
     
   - UI Navigation Flow:
