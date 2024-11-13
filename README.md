@@ -26,7 +26,8 @@ Purpose:
     - Client-Server Communication:
       - Protocols and technologies used for client-server communication (e.g., REST APIs, WebSockets)
       - Overview of the client-side and server-side components and their responsibilities
-        
+        ![Captura de tela 2024-11-13 100352](https://github.com/user-attachments/assets/292efce6-2326-47a7-a19f-60f0ba8d7528)
+
 
 
 
