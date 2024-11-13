@@ -7,11 +7,11 @@ Last Draw is a Western-themed point-and-click adventure game in which the player
 
 # Overview
 Purpose: 
-  This project aims to provide players with an engaging, time-sensitive adventure where choices impact the story and the player’s reputation.
+  This project aims to provide players with an engaging, time-sensitive adventure where choices impact the story and the final challenge.
 
 Scope:
   - Included Features:
-      Interactive decision-making, disc-hunting mini-game, time-sensitive mechanics, and a reputation system.
+      Interactive decision-making, shoot-target mini-game, time-sensitive mechanics, and a scoring system based on attribute management.
     
   - Excluded Features:
       Multiplayer mode, advanced AI for NPCs.
@@ -23,10 +23,18 @@ Scope:
   - Architecture Diagram:
       To be added: (Consider a flowchart showing the main components, such as decision points, score system, timer, and UI.)
 
+
+![image](https://github.com/user-attachments/assets/ba3f8157-9510-4394-97b7-15c787928eb6)
+
+
+
+
+    
+
 # Data Dictionary
    - Data Elements:
       Player:
-        Stores player score, reputation, and health.
+        Stores player score and attributes (Health, Audacity and Stealth).
      
    - Decision Node:
          Represents each choice, outcome, and possible rewards/penalties.
@@ -43,7 +51,7 @@ Scope:
   - UI Overview:
       Main screen with options for starting the game and viewing scores.
       Game screen with timer, decision options, and disc-hunting area.
-      Reputation and score display panel.
+      Attributes and Score display panel.
     
   - UI Navigation Flow:
       Start Screen -> Game Screen -> End Screen
