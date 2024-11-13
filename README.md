@@ -1,4 +1,6 @@
-# Last-Draw
+
+![Leonardo_Phoenix_A_visually_striking_professional_graphic_desi_1](https://github.com/user-attachments/assets/a89cd88a-21c8-413b-89a9-23123aeb01ba)
+
 
 
 # Project Description:
@@ -21,12 +23,15 @@ Scope:
       The game is developed using WPF (.NET Framework) and C#, utilizing a modular design where each decision point and mini-game is a separate module.
     
   - Architecture Diagram:
-      To be added: (Consider a flowchart showing the main components, such as decision points, score system, timer, and UI.)
+    
+    - Decision points flow and Attributes Management:
+![image](https://github.com/user-attachments/assets/76380551-db8f-4a07-8260-7b7c5e89d10f)
 
 
-![image](https://github.com/user-attachments/assets/ba3f8157-9510-4394-97b7-15c787928eb6)
+   -  Gameplay UI
+        
 
-
+![Imagem do WhatsApp de 2024-11-12 à(s) 22 17 43_8a71b180](https://github.com/user-attachments/assets/5e1c525d-74c3-4197-8c61-0b170564d926)
 
 
     
