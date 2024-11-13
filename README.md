@@ -11,11 +11,11 @@ Last Draw is a Western-themed point-and-click adventure game in which players mu
 Purpose: 
   This project aims to provide players an engaging, time-sensitive adventure where choices impact the story and the final challenge.
 
-Scope:
-  - Included Features:
+# 1. Scope:
+1.1 Included Features:
       Interactive decision-making, shoot-target mini-game, time-sensitive mechanics, and a scoring system based on attribute management.
     
-  - Excluded Features:
+1.2 Excluded Features:
       Multiplayer mode, advanced AI for NPCs.
 
 # System Architecture
@@ -23,12 +23,18 @@ Scope:
       The game is developed using WPF (.NET Framework) and C#, utilizing a modular design where each decision point and mini-game is a separate module.
     
   - Architecture Diagram:
-    
+    - Client-Server Communication:
+      - Protocols and technologies used for client-server communication (e.g., REST APIs, WebSockets)
+      - Overview of the client-side and server-side components and their responsibilities
+        
+
+
+
     - Decision points flow and Attributes Management:
       ![image](https://github.com/user-attachments/assets/1b9d6219-0859-4bd1-9d2f-a30ae0570aa5)
 
-   -  Gameplay UI
-![image](https://github.com/user-attachments/assets/9a9a62d1-b1d4-4aa6-9db3-5a5ef649fa47)
+    - Gameplay UI
+      ![image](https://github.com/user-attachments/assets/9a9a62d1-b1d4-4aa6-9db3-5a5ef649fa47)
 
 
 
