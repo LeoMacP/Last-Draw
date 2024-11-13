@@ -34,8 +34,6 @@ Scope:
 ![Imagem do WhatsApp de 2024-11-12 à(s) 22 17 43_8a71b180](https://github.com/user-attachments/assets/5e1c525d-74c3-4197-8c61-0b170564d926)
 
 
-    
-
 # Data Dictionary
    - Data Elements:
       Player:
@@ -50,7 +48,7 @@ Scope:
     
   - Data Structure:
       Player Stats:
-        Attributes like reputation, health, and score are tracked through a basic class structure in C#.
+        Attributes and Scores are tracked through a basic class structure in C#.
 
 # User Interface Design
   - UI Overview:
