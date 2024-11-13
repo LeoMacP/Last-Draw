@@ -25,7 +25,8 @@ Scope:
   - Architecture Diagram:
     
     - Decision points flow and Attributes Management:
-![image](https://github.com/user-attachments/assets/76380551-db8f-4a07-8260-7b7c5e89d10f)
+![image](https://github.com/user-attachments/assets/59e085a7-5fdb-4f86-835d-c382b704b2af)
+
 
 
    -  Gameplay UI
